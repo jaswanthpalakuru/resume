@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.com/resume/static/css/main.a617e044.chunk.css",
+    "main.js": "/github.com/resume/static/js/main.a40aa94a.chunk.js",
+    "main.js.map": "/github.com/resume/static/js/main.a40aa94a.chunk.js.map",
+    "runtime-main.js": "/github.com/resume/static/js/runtime-main.b93392c2.js",
+    "runtime-main.js.map": "/github.com/resume/static/js/runtime-main.b93392c2.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/github.com/resume/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/github.com/resume/static/js/2.8833cd6e.chunk.js.map",
+    "index.html": "/github.com/resume/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github.com/resume/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/github.com/resume/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/jaswanth.fb393e2b.jpg": "/github.com/resume/static/media/jaswanth.fb393e2b.jpg",
+    "static/media/linkedin.ba884e1f.png": "/github.com/resume/static/media/linkedin.ba884e1f.png",
+    "static/media/machinelearning.5fd74e24.png": "/github.com/resume/static/media/machinelearning.5fd74e24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b93392c2.js",
+    "static/js/2.8833cd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a40aa94a.chunk.js"
+  ]
+}
